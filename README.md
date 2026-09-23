@@ -1,6 +1,6 @@
 # Ujjawal Saini
 
-Full-stack developer at [GramIQ](https://gram-iq-project.vercel.app), building product features end-to-end across React/Next.js frontends and Node/Express APIs. Outside of that I ship small full-stack products on my own — a job portal, an AI resume builder, and an OpenRouter-style multi-service backend — usually React or Next.js on the frontend, Express or Prisma/Postgres on the backend.
+Full-stack developer at [GramIQ](https://gramiq.ai), building product features end-to-end across React/Next.js frontends and Node/Express APIs. Outside of that I ship small full-stack products on my own — a job portal, an AI resume builder, and an OpenRouter-style multi-service backend — usually React or Next.js on the frontend, Express or Prisma/Postgres on the backend.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjawalsaini1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
